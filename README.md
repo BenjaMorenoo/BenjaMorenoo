@@ -1,4 +1,4 @@
-## Hola! soy Benjamín Moreno 👋
+<h1 align="center">Hola! soy Benjamín Moreno <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <!--
 **BenjaMorenoo/BenjaMorenoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
