@@ -1,6 +1,6 @@
 <h1 align="center">Hola! soy Benjamín Moreno <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<h4> Frameworks </h4>
+<h4> 📚 Frameworks </h4>
 <span>
 <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
 <img src="https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white">
@@ -10,7 +10,7 @@
 </span>
 
 <hr>
-<h4> IDEs/Editors </h4>
+<h4> 💻 IDEs/Editors </h4>
 <span>
 <img src="https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=whit">
 <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green">
@@ -22,7 +22,7 @@
 
 <hr>
 <span>
-<h4> IDEs/Editors </h4>
+<h4> 📋 Languages </h4>
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
