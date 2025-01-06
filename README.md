@@ -1,6 +1,6 @@
 <h1 align="center">Hola! soy Benjamín Moreno <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<p align="center">Tengo 21 años, soy estudiante analista programador y he estado en contacto con este mundo hace 5 años.</p>
+<p align="center">Tengo 21 años, soy estudiante analista programador.</p>
 
 <h4 align="center">📚 Frameworks</h4>
 <p align="center">
